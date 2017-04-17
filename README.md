@@ -1,16 +1,20 @@
-# Project - DL1-FirstNeuralNetwork
+# Project:  DL1-FirstNeuralNetwork
+
+Description
+-----------
 
 In this project, I've built a neural network using a 'Daily bike rental ridership' dataset.
 
-DataSource - https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+DataSource
+----------
 
-Setup
------ 
+UCI Machine Learning Database 
+https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
+Env Setup
+--------- 
 
 Python 3 
-
-Create a new conda environment:
-conda create --name dlnd python=3
 
 Dependencies 
 ------------
