@@ -4,6 +4,7 @@ Description
 -----------
 
 In this project, I've built a neural network using a 'Daily bike rental ridership' dataset.
+
 [HTML Preview of the Jupyter Notebook](http://htmlpreview.github.io/?https://github.com/manas-mukherjee/DL1-FirstNeuralNetwork/blob/master/Your_first_neural_network.html)
 
 
